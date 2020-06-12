@@ -10,7 +10,7 @@ Tasks:
 4. Roll Dice -- Roll 2 Dice at random and add them (RollDice.py)
 5. Magic 8 Ball -- Create a Magic Eight Ball type of game (magic.txt, MagicBall.py)
 6. Letter Pyramid -- Make half pyramid out of input word (letterart.py)
-7.
+7. Count Letters -- Count letters in Text (cagedbird.txt, countletters.py)
 8.
 9.
 10.
