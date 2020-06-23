@@ -11,6 +11,6 @@ Tasks:
 5. Magic 8 Ball -- Create a Magic Eight Ball type of game (magic.txt, MagicBall.py)
 6. Letter Pyramid -- Make half pyramid out of input word (letterart.py)
 7. Count Letters -- Count letters in Text (cagedbird.txt, countletters.py)
-8.
+8. Number List -- take a list of numbers and makes a new list of only the first and last elements (nrlist.py)
 9.
 10.
